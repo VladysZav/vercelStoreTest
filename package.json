@@ -1,0 +1,17 @@
+{
+  "name": "demovercelstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testOpen:cy": "cypress open",
+    "testRun:cy": "cypress run"
+  },
+  "author": "Zavalii",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.32.1",
+    "cypress": "^10.9.0",
+    "webpack": "^5.74.0"
+  }
+}
